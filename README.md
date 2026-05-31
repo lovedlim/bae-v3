@@ -9,6 +9,8 @@
 ### 노트북 클릭시 다음과 같은 에러가 발생한다면
 - 사이트: https://nbviewer.org/
 - 위 사이트에서 URL 입력창에 열고자 하는 깃헙 노트북 주소(~~~~.ipynb)를 넣어주세요!
+  <img width="535" height="515" alt="스크린샷 2026-05-31 오후 4 45 51" src="https://github.com/user-attachments/assets/a7b8346b-1661-4354-9bca-b053fb6865f9" />
+
 
 ### 🌱 예제코드 전체 다운로드 방법
 - "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
