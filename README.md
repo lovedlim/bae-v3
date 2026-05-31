@@ -6,6 +6,12 @@
 - 노트북 선택(part/chapter) -> 구글 코랩에서 실행하기 -> Drive로 복사 -> 실행
 ![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
+### 노트북 클릭시 다음과 같은 에러가 발생한다면
+- 사이트: https://nbviewer.org/
+- 위 사이트에서 깃헙 노트북 주소를 넣어주세요 그러면 정상적으로 보입니다.
+  <img width="535" height="515" alt="스크린샷 2026-05-31 오후 4 45 51" src="https://github.com/user-attachments/assets/0b803752-e637-4899-b82b-8646e1f1d109" /> <img width="964" height="735" alt="스크린샷 2026-05-31 오후 4 45 38" src="https://github.com/user-attachments/assets/470106c9-8e16-4459-bc57-588d5280e8dc" />
+
+
 
 ### 🌱 예제코드 전체 다운로드 방법
 - "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
