@@ -41,7 +41,7 @@
 - PART4. 기출유형 (예시문제, 4회 ~ 11회까지)
 
 ### 🌱 커뮤니티
-- 12회 스터디(오징어게임) : (미정)
+- 12회 스터디(오징어게임) : https://inf.run/ntyxd
 - 11회 스터디(오징어게임) : https://inf.run/L1ccn
 - 10회 스터디(오징어게임) 초대장 : [링크](https://quakka.notion.site/10-1d77e3769e2e801eacced76144d3520c?pvs=4)
 - 2회 ~ 11회 스터디 (디스코드) 입장 링크: https://discord.gg/V8acvTnHhH 
