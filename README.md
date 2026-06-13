@@ -2,15 +2,18 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+### 시험 환경 적응하기 
+- 브라우저에서 바로 연습할 수 있는 코딩팡을 오픈했습니다. 🎉
+- 링크: https://www.sideonai.com/code
+
+
 ### 🌱 예제코드 바로 실행하는 방법
 - 노트북 선택(part/chapter) -> 구글 코랩에서 실행하기 -> Drive로 복사 -> 실행
 ![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
-### 노트북 클릭시 다음과 같은 에러가 발생한다면
+### 노트북 클릭시 "An error occurred"에러가 발생한다면
 - 사이트: https://nbviewer.org/
 - 위 사이트에서 URL 입력창에 열고자 하는 깃헙 노트북 주소(~~~~.ipynb)를 넣어주세요!
-  <img width="30%" alt="스크린샷 2026-05-31 오후 4 45 51" src="https://github.com/user-attachments/assets/a7b8346b-1661-4354-9bca-b053fb6865f9" />
-
 
 ### 🌱 예제코드 전체 다운로드 방법
 - "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
