@@ -4,7 +4,7 @@
 
 ### 시험 환경 적응하기 
 - 브라우저에서 바로 연습할 수 있는 코딩팡을 오픈했습니다. 🎉
-- 링크: https://www.sideonai.com/code
+- 링크: [https://code.sideonai.com/](https://code.sideonai.com/)
 
 
 ### 🌱 예제코드 바로 실행하는 방법
